@@ -1,0 +1,15 @@
+
+{
+	"UpdateRate": 200,
+	"PlcAddress": "0301.A097",
+	"UseLocalHost": true,
+	"Application": "Application",
+	"StartVisu": "VMain",
+	"BestFit": true,
+	"LogLevel": "INFO",
+	"CommBufferSize": 50000,
+    "HasKeyboard": false,
+    "TouchHandlingActive": false,
+    "ScaleTypeIsotropic": false,
+    "BestFitForDialogs": true
+}
